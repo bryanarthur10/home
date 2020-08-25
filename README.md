@@ -1,2 +1,2 @@
 # home
-[test link](google.com)
+[test link](https://google.com)
